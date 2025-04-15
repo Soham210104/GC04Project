@@ -43,6 +43,8 @@ This project aims to develop an automated system for detecting and classifying a
 - 109,446 ECG samples at 125 Hz sampling rate
 - Includes various heartbeat types labeled according to AAMI standards
 
+Dataset Link :- https://drive.google.com/drive/folders/1oOSTojQ2cIe1xMEHcPkkZUNcYj72npL1?usp=sharing
+
 ---
 
 ### ⚙️ Tools & Technologies
